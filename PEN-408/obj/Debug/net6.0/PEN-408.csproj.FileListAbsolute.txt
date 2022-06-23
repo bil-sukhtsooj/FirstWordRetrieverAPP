@@ -1,0 +1,15 @@
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\bin\Debug\net6.0\PEN-408.exe
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\bin\Debug\net6.0\PEN-408.deps.json
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\bin\Debug\net6.0\PEN-408.runtimeconfig.json
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\bin\Debug\net6.0\PEN-408.dll
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\bin\Debug\net6.0\PEN-408.pdb
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\obj\Debug\net6.0\PEN-408.csproj.AssemblyReference.cache
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\obj\Debug\net6.0\PEN-408.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\obj\Debug\net6.0\PEN-408.AssemblyInfoInputs.cache
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\obj\Debug\net6.0\PEN-408.AssemblyInfo.cs
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\obj\Debug\net6.0\PEN-408.csproj.CoreCompileInputs.cache
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\obj\Debug\net6.0\PEN-408.dll
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\obj\Debug\net6.0\refint\PEN-408.dll
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\obj\Debug\net6.0\PEN-408.pdb
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\obj\Debug\net6.0\PEN-408.genruntimeconfig.cache
+C:\Users\bil.sukhtsooj\Desktop\test\PEN-408\PEN-408\obj\Debug\net6.0\ref\PEN-408.dll
